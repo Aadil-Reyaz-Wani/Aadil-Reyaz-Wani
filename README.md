@@ -1,4 +1,4 @@
-Hi, I'm Aadil Reyaz Wani
+Hi, I'm Aadil Reyaz Wani<br>
 Android Developer | Tech Explorer
 
 🧑‍💻 About Me

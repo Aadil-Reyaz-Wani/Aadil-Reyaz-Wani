@@ -38,9 +38,9 @@ Google Maps API · ML Kit · REST APIs
 
 Connect With Me
 
-- 📧 Email: aadilreyaz924@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/aadil-reyaz-wani/
-- 🌐 Portfolio: Coming Soon
+- Email: aadilreyaz924@gmail.com  
+- LinkedIn: www.linkedin.com/in/aadilreyazwani
+- Portfolio: Coming Soon
 
 ---
 

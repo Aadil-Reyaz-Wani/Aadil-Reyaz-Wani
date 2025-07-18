@@ -23,7 +23,7 @@ Version: 1.0.4 | Size: 24.2 MB
 
 Technical Skills
 Languages: 
-Kotlin · Java · PHP · Python (for ml)  
+Kotlin · Java
 
 Mobile Development:  
 Jetpack Compose · MVVM Architecture · Navigation · Room DB · Coroutines

@@ -17,7 +17,7 @@ I'm particularly passionate about:
   Features include spot discovery, fish identification using ML, and real-time user data visualization.  
   Tech Stack: Jetpack Compose · Firebase · Google Maps API · ML Kit · MVVM
 
-**[Download the latest APK](https://bit.ly/bisleiFishing)**  
+**[Download the latest APK](https://bislei-b90ca.web.app)**  
 Last updated: July 17, 2025  
 Version: 1.0.4 | Size: 24.2 MB
 

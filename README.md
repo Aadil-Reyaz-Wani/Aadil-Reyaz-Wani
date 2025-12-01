@@ -43,7 +43,7 @@ Connect With Me
 
 - Email: aadilreyaz924@gmail.com  
 - LinkedIn: www.linkedin.com/in/aadilreyazwani
-- Portfolio: Coming Soon
+- Portfolio: https://aadil-reyaz-wani.vercel.app/
 
 ---
 

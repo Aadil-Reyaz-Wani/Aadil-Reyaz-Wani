@@ -9,15 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aadilreyazwani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
-  </a>
-  <a href="https://aadil-reyaz-wani.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:aadilreyaz924@gmail.com">
-    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" />
-  </a>
+  <a href="https://www.linkedin.com/in/aadilreyazwani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=white&cache=bypass" alt="LinkedIn" /></a>
+  <a href="https://aadil-reyaz-wani.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:aadilreyaz924@gmail.com"><img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" /></a>
 </p>
 
 ---
@@ -43,8 +37,8 @@
   <br/>
   <img src="https://img.shields.io/badge/Room_Database-121212?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="Room DB" />
   <img src="https://img.shields.io/badge/Firebase-121212?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-121212?style=for-the-badge" alt="Clean Arch" />
-  <img src="https://img.shields.io/badge/MVVM-121212?style=for-the-badge" alt="MVVM" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-121212?style=for-the-badge&logo=buffer&logoColor=white" alt="Clean Arch" />
+  <img src="https://img.shields.io/badge/MVVM-121212?style=for-the-badge&logo=androidstudio&logoColor=white" alt="MVVM" />
 </div>
 
 ---
@@ -57,10 +51,7 @@
 > **Architecture:** Built entirely with a local-first Room database for zero-latency data access.<br>
 > **UI & Routing:** Fluid Jetpack Compose interface with compile-time safe routing utilizing the Navigation 3 library alongside `NavDisplay`.
 
-<a href="https://play.google.com/store/apps/details?id=com.aadil.spool" target="_blank">
-  <img src="https://img.shields.io/badge/Google_Play-121212?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play" />
-</a>
-<img src="https://img.shields.io/badge/Downloads-100%2B-121212?style=for-the-badge&logo=android&logoColor=3DDC84" alt="100+ Downloads" />
+<a href="https://play.google.com/store/apps/details?id=com.aadil.spool" target="_blank"><img src="https://img.shields.io/badge/Google_Play-121212?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play" /> <img src="https://img.shields.io/badge/Downloads-100%2B-121212?style=for-the-badge&logo=android&logoColor=3DDC84" alt="100+ Downloads" /></a>
 
 <br/><br/>
 

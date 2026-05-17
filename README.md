@@ -13,14 +13,14 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## About Me
 I specialize in building highly performant, native mobile applications. I do not just build user interfaces; I focus heavily on the underlying architecture. My engineering philosophy centers on writing maintainable Kotlin code, implementing strict **Clean Architecture** principles, and delivering fluid, offline-first experiences exclusively using **Jetpack Compose**.
 
 ---
 
-## 🚀 Featured Engineering
+## Featured Engineering
 
-### [🖨️ SPOOL: 3D Printing Inventory Manager](https://play.google.com/store/apps/details?id=com.aadil.spool)
+### [SPOOL: 3D Printing Inventory Manager](https://play.google.com/store/apps/details?id=com.aadil.spool)
 > **Status:** Production (100+ Active Downloads)<br>
 > **Summary:** A utility designed to seamlessly track filament inventory, weights, and colors with zero latency.
 
@@ -29,7 +29,7 @@ I specialize in building highly performant, native mobile applications. I do not
 
 <br/>
 
-### 🎣 Bislei: Community Social Platform
+### Bislei: Community Social Platform
 > **Summary:** A location-based social application for discovering fishing spots and sharing real-time hotspots.
 
 * **Data Synchronization:** Implemented a robust data layer using Firebase Auth and Firestore for real-time remote syncing.
@@ -38,7 +38,7 @@ I specialize in building highly performant, native mobile applications. I do not
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 **Core Android:**<br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -51,13 +51,3 @@ I specialize in building highly performant, native mobile applications. I do not
 ![MVVM](https://img.shields.io/badge/MVVM-121212?style=flat-square&logo=androidstudio&logoColor=white)
 ![Room DB](https://img.shields.io/badge/Room_Database-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  <a href="https://github.com/Aadil-Reyaz-Wani">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aadil-Reyaz-Wani&show_icons=true&theme=transparent&hide_border=true&title_color=3DDC84&icon_color=3DDC84&text_color=777777" alt="GitHub Stats" width="450" />
-  </a>
-</div>
